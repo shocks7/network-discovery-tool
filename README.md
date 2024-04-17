@@ -1,6 +1,6 @@
 # Network Ping Sweep
 
-This Bash script performs a ping sweep across a range of IP addresses in a local network. It iterates through all IP addresses within the specified range and sends a single ICMP echo request (ping) to each of them. The goal is to identify which IP addresses are active and responded to the ping, which can be useful for diagnosing connectivity issues or identifying active devices on the network.
+This application performs a ping sweep across a range of IP addresses in a local network. It iterates through all IP addresses within the specified range and sends a single ICMP echo request (ping) to each of them. The goal is to identify which IP addresses are active and responded to the ping, which can be useful for diagnosing connectivity issues or identifying active devices on the network.
 
 ## How to Use
 
